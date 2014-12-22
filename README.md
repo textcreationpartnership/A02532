@@ -36,7 +36,9 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Contemplations vpon the historicall part of the Old Testament. The eighth and last volume. In two bo
+
+1. TO THE HIGH AND MIGHTY MONARCH CHARLES, BY The Grace of God KING of Great Britaine, France and Ireland, Defender of the Faith, &c.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
